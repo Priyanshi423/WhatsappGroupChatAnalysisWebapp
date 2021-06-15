@@ -1,15 +1,14 @@
-import advertools as adv
-import regex 
-import pandas as pd
-import numpy as np
-import emoji
-from collections import Counter
-from os import path
-from PIL import Image
-from wordcloud import WordCloud,STOPWORDS,ImageColorGenerator
-import os 
-import plotly.express as px
-import matplotlib.pyplot as plt
-import streamlit as st
-import regex as re
-import seaborn as sns
+regex==2.5.93
+collections>=3.3
+advertools==0.11.1
+numpy==1.19.5
+emoji==1.2.0
+PIL==8.2.0
+wordcloud==1.8.1
+seaborn==0.11.1
+plotly==4.14.3
+
+matplotlib>=1.4.3
+pandas==1.2.4
+
+streamlit
