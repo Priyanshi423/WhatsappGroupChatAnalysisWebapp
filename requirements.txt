@@ -1,4 +1,4 @@
-regex==2.5.93
+regex>=2.5.93
 collections>=3.3
 advertools==0.11.1
 numpy==1.19.5
