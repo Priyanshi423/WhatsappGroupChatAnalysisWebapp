@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit whatsappGroupChatAnalysis.py
+web: sh setup.sh && streamlit whatsappGroupChatAnalaysis.py
