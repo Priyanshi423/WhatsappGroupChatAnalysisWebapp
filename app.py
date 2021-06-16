@@ -25,6 +25,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import regex as re
 import seaborn as sns
+print(PIL.__version__)
 st.markdown('<style>body{background-color: White}</style>',unsafe_allow_html=True)
 #st.markdown(f'<p style="background-color:#0066cc;color:#33ff33;font-size:24px;border-radius:2%;"></p>', unsafe_allow_html=True)
 
