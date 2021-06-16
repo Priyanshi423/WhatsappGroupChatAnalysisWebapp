@@ -1,4 +1,4 @@
-python==3.8.8
+
 advertools==0.11.1
 altair==4.1.0
 emoji==1.2.0
